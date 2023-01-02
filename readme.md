@@ -1,0 +1,4 @@
+本项目使用Python+unitest+requests+HTMLTestRunner模拟接口自动化测试
+1、 目前HTMLTestRunner部分还未实现
+2、unitest断言还未实现
+3、后续还可以接入sql
